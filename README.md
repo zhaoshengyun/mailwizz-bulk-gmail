@@ -7,6 +7,7 @@
 ![Image text](https://raw.githubusercontent.com/zhaoshengyun/mailwizz-bulk-gmail/refs/heads/main/image/%E7%99%BB%E9%99%86%E7%B3%BB%E7%BB%9F1-1.jpeg)
 
 经过和站长沟通，拿到客户的用户名和密码，进行填入：
+
 ![Image text](https://raw.githubusercontent.com/zhaoshengyun/mailwizz-bulk-gmail/refs/heads/main/image/%E7%99%BB%E9%99%86%E7%B3%BB%E7%BB%9F2.jpeg)
 
 二、这位老板把自己的邮件列表进行了导入：
@@ -30,3 +31,7 @@
 ![Image text](https://raw.githubusercontent.com/zhaoshengyun/mailwizz-bulk-gmail/refs/heads/main/image/%E6%95%B0%E6%8D%AE2.jpeg)
 
 发送4112封，客户打开了168封，主动订阅0，失效的邮件地址143封，退订0
+
+![Image text](https://raw.githubusercontent.com/zhaoshengyun/mailwizz-bulk-gmail/refs/heads/main/image/%E9%BB%91%E4%BA%BA%E9%97%AE%E5%8F%B7.jpeg)
+
+以上是通过外贸一点通（wmydt.com）群发邮件的简单步骤，有群发需要可以联系 lvyecogood@gmail.com

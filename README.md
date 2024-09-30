@@ -2,7 +2,7 @@
 如何通过mailwizz利用多个gmail邮箱的smtp服务群发邮件？
 某老板有一个客户邮箱列表，其他的啥也没有，找到外贸一点通群发邮件系统（wmydt.com），下面是他群发邮件的极简步骤：
 
-一、登陆地址，wmydt.com
+一、登陆地址，[wmydt.com](https://wmydt.com)
 
 ![Image text](https://raw.githubusercontent.com/zhaoshengyun/mailwizz-bulk-gmail/refs/heads/main/image/%E7%99%BB%E9%99%86%E7%B3%BB%E7%BB%9F1-1.jpeg)
 

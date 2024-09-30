@@ -5,10 +5,10 @@
 一、登陆地址，wmydt.com
 经过和站长沟通，拿到客户的用户名和密码，进行填入：
 ![Image text](https://raw.githubusercontent.com/zhaoshengyun/mailwizz-bulk-gmail/refs/heads/main/image/%E7%99%BB%E9%99%86%E7%B3%BB%E7%BB%9F1-1.jpeg)
-利用外贸一点通系统（mailwizz系统搭建）群发邮件简单步骤
+
 二、这位老板把自己的邮件列表进行了导入：
 
-利用外贸一点通系统（mailwizz系统搭建）群发邮件简单步骤
+
 三、这位老板开始创建发送任务和策略：
 
 利用外贸一点通系统（mailwizz系统搭建）群发邮件简单步骤

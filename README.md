@@ -1,20 +1,19 @@
-# 如何通过mailwizz利用多个gmail邮箱的smtp服务群发邮件？
+## 如何通过mailwizz利用多个gmail邮箱的smtp服务群发邮件？
 如何通过mailwizz利用多个gmail邮箱的smtp服务群发邮件？
-某老板有一个客户邮箱列表，其他的啥也没有，找到外贸一点通群发邮件系统（[wmydt.com](https://wmydt.com){:target="_blank"}），下面是他群发邮件的极简步骤：
+某老板有一个客户邮箱列表，其他的啥也没有，找到外贸一点通群发邮件系统 [wmydt.com](https://wmydt.com)，下面是他群发邮件的极简步骤：
 
-一、登陆地址，[wmydt.com](https://wmydt.com){:target="_blank"}
-
+## 一、登陆地址，[wmydt.com](https://wmydt.com)
 ![Image text](https://raw.githubusercontent.com/zhaoshengyun/mailwizz-bulk-gmail/refs/heads/main/image/%E7%99%BB%E9%99%86%E7%B3%BB%E7%BB%9F1-1.jpeg)
 
 经过和站长沟通，拿到客户的用户名和密码，进行填入：
 
 ![Image text](https://raw.githubusercontent.com/zhaoshengyun/mailwizz-bulk-gmail/refs/heads/main/image/%E7%99%BB%E9%99%86%E7%B3%BB%E7%BB%9F2.jpeg)
 
-二、这位老板把自己的邮件列表进行了导入：
+## 二、这位老板把自己的邮件列表进行了导入：
 
 ![Image text](https://raw.githubusercontent.com/zhaoshengyun/mailwizz-bulk-gmail/refs/heads/main/image/%E7%AC%AC%E4%B8%80%E6%AD%A5%E5%88%9B%E5%BB%BAlist.jpeg)
 
-三、这位老板开始创建发送任务和策略：
+## 三、这位老板开始创建发送任务和策略：
 
 ![Image text](https://raw.githubusercontent.com/zhaoshengyun/mailwizz-bulk-gmail/refs/heads/main/image/%E7%AC%AC%E4%BA%8C%E6%AD%A5%E5%88%9B%E5%BB%BAcampaigns.jpeg)
 
@@ -24,7 +23,7 @@
 
 这样发送任务就开始工作了。
 
-四、发送结束了，这位老板看到了数据：
+## 四、发送结束了，这位老板看到了数据：
 
 ![Image text](https://raw.githubusercontent.com/zhaoshengyun/mailwizz-bulk-gmail/refs/heads/main/image/%E6%95%B0%E6%8D%AE1-1.jpeg)
 
@@ -34,4 +33,4 @@
 
 ![Image text](https://raw.githubusercontent.com/zhaoshengyun/mailwizz-bulk-gmail/refs/heads/main/image/%E9%BB%91%E4%BA%BA%E9%97%AE%E5%8F%B7.jpeg)
 
-以上是通过外贸一点通（wmydt.com）群发邮件的简单步骤，有群发需要可以联系 lvyecogood@gmail.com
+## 以上是通过外贸一点通（wmydt.com）群发邮件的简单步骤，有群发需要可以联系 lvyecogood@gmail.com
